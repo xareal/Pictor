@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pictor</string>
+
+    <string name="category_camera">Camera</string>
+    <string name="category_setting">Setting</string>
+
+    <string name="take_picture">Take Picture</string>
+
+</resources>

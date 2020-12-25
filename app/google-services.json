@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408603700974",
+    "project_id": "pictor-7b58f",
+    "storage_bucket": "pictor-7b58f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408603700974:android:5e853c3424a7cc0c1a0dff",
+        "android_client_info": {
+          "package_name": "com.xar.pictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408603700974-f496lsh4shst71d1rb3do17s5s43sr5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApwE7WHsDlo08mw3vGdbVydp8GhQPV2k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408603700974-f496lsh4shst71d1rb3do17s5s43sr5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
